@@ -1,0 +1,6 @@
+{
+  "name": "سامانه مدیریت هسته‌های علمی، پژوهشی و تربیتی",
+  "description": "سامانه جامع پایش و مدیریت پروژه‌های پژوهشی در سطح ادمین و کارتابل ارسال آسان مدارک و مشاهده وضعیت پیشرفت برای پژوهشگران",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
